@@ -1,0 +1,25 @@
+{
+  "name": "typescript-learn",
+  "version": "0.1.0",
+  "description": "typescript学习代码笔记 ",
+  "scripts": {
+    "build": "tsc ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agile-contrib/typescript-learn.git"
+  },
+  "keywords": [
+    "typescript",
+    "learn"
+  ],
+  "author": "你好2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agile-contrib/typescript-learn/issues"
+  },
+  "homepage": "https://github.com/agile-contrib/typescript-learn#readme",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}
