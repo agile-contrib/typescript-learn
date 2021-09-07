@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "typescript学习代码笔记 ",
   "scripts": {
-    "build": "tsc ./src/index.ts"
+    "build": "tsc ./src/index.ts",
+    "build-es5":"tsc ./src/index.ts -t es5"
   },
   "repository": {
     "type": "git",

@@ -12,6 +12,10 @@ typescript学习代码笔记
 npm run build
 ```
 
+## tsc命令
+
+<img src='./tsc.png'>
+
 开源协议
 ---------------------------------------
 [MIT](https://github.com/agile-contrib/typescript-learn/blob/master/LICENSE)
