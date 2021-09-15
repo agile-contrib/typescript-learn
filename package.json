@@ -4,7 +4,9 @@
   "description": "typescript学习代码笔记 ",
   "scripts": {
     "build": "tsc ./src/index.ts",
-    "build-es5":"tsc ./src/index.ts -t es5"
+    "build-es5": "tsc ./src/index.ts -t es5",
+    "build-jsx": "tsc ./src/index.ts --jsx react",
+    "build-decorators": "tsc ./src/index.ts --target ES5 --experimentalDecorators"
   },
   "repository": {
     "type": "git",
